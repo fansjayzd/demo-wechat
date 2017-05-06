@@ -96,6 +96,7 @@ public class MySQLUtil {
 	/**
 	 * 获取上一次的聊天类别
 	 * 
+	 * 
 	 * @param openId 用户的OpenID
 	 * @return chatCategory
 	 */
